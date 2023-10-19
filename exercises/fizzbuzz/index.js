@@ -24,6 +24,7 @@ function fizzBuzz(n) {
       console.log([i]);
     }
   }
+  test;
 }
 
 module.exports = fizzBuzz;
